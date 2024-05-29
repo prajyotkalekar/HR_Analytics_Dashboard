@@ -14,7 +14,13 @@ The primary objective of the HR Analytics Dashboard is to identify trends and pa
 
 <h3>Key Features:</h3>
 
+• Attrition Breakdown: Delve into attrition by education background, age group, salary range, and tenure at the company.
 
+• Job Role Insights: Identify which roles have the highest turnover rates and uncover patterns to improve retention strategies.
+
+• Gender Analysis: Understand the distribution of attrition between male and female employees to address any potential disparities.
+
+• Average Metrics: Analyze average age, salary, and years at the company for departing employees to pinpoint critical factors contributing to attrition.
 
 <hr>
 
