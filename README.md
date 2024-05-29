@@ -1,5 +1,6 @@
-<h2 align = "Center">HR_Analytics_Dashboard ![image](https://github.com/prajyotkalekar/HR_Analytics_Dashboard/assets/141732867/eefc3530-20b8-493b-8b72-26ff259f3ab0)
-</h2>
+<h2 align = "Center">HR_Analytics_Dashboard</h2> ![web-analytics](https://github.com/prajyotkalekar/HR_Analytics_Dashboard/assets/141732867/44a88b5a-5f22-434d-a8ee-cbc90dad6b2c)
+
+
 
 <h3>Overview:</h3>
 
