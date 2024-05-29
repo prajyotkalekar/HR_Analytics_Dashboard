@@ -14,13 +14,7 @@ The primary objective of the HR Analytics Dashboard is to identify trends and pa
 
 <h3>Key Features:</h3>
 
-• Sales Overview: Visualize total sales revenue over time with interactive charts and graphs, allowing for detailed analysis of sales trends.<br>
 
-• Product Analysis: Explore product performance by category and subcategory, enabling better inventory management and marketing strategies.<br>
-
-• Customer Segmentation: Understand customer behavior and preferences through demographic analysis, aiding in targeted marketing efforts.<br>
-
-• Geographical Insights: View sales distribution across regions with map visualizations, identifying high-performing areas and potential growth opportunities.<br>
 
 <hr>
 
