@@ -1,4 +1,5 @@
-<h2 align = "Center">HR_Analytics_Dashboard</h2>
+<h2 align = "Center">HR_Analytics_Dashboard</h2>![image](https://github.com/prajyotkalekar/HR_Analytics_Dashboard/assets/141732867/7e0967a8-287c-4543-b3d4-67b08d89fee4)
+
 <h3>Overview:</h3>
 
 The HR Analytics Dashboard provides a detailed analysis of employee attrition within an organization with 1,470 employees. It breaks down attrition by various demographic and job-related factors, such as education, age, salary, years at the company, and job role. The dashboard includes overall attrition metrics, such as the attrition rate, average age, and average salary of departing employees.
