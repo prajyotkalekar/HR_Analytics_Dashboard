@@ -1,21 +1,13 @@
 <h2 align = "Center">HR_Analytics_Dashboard</h2>
 <h3>Overview:</h3>
 
-The Super Store Sales Dashboard is a comprehensive visual representation of sales data for a retail business. It provides insights into various aspects of the business's performance, including sales volume, profit, and order metrics, as well as detailed breakdowns by region, category, and other relevant segments. The dashboard consists of two primary views: the current sales dashboard and a 15-day sales forecast.
+The HR Analytics Dashboard provides a detailed analysis of employee attrition within an organization with 1,470 employees. It breaks down attrition by various demographic and job-related factors, such as education, age, salary, years at the company, and job role. The dashboard includes overall attrition metrics, such as the attrition rate, average age, and average salary of departing employees.
 
 <hr>
 
 <h3>Objective:</h3>
 
-The primary objective of the Super Store Sales Dashboard is to enable stakeholders to:
-
-• Monitor sales performance in real-time.
-
-• Identify trends and patterns in sales data.
-
-• Make data-driven decisions to optimize business operations and strategies.
-
-• Forecast future sales to better manage inventory, staffing, and marketing efforts.
+The primary objective of the HR Analytics Dashboard is to identify trends and patterns in employee attrition to inform strategic decisions for improving retention rates. It aims to provide HR and management with insights to address issues related to employee turnover, thereby enhancing workforce stability and productivity.
 
 <hr>
 
@@ -40,15 +32,13 @@ The primary objective of the Super Store Sales Dashboard is to enable stakeholde
 
 <h3>Impact:</h3>
 
-• Enhanced Decision-Making: The dashboard provides a clear and concise view of critical business metrics, enabling management to make informed decisions quickly.
+• Enhanced Employee Retention: By understanding the key factors contributing to employee attrition, HR can implement targeted retention strategies.
 
-• Trend Identification: The visual representation of sales data over time helps identify seasonal trends and sales spikes, facilitating better planning and resource allocation.
-   
-• Targeted Strategies: By understanding the breakdown of sales by region, segment, and category, the business can develop targeted marketing and sales strategies to boost performance in specific areas.
- 
-• Improved Forecasting: The sales forecast feature aids in predicting future sales, allowing for proactive adjustments in inventory, marketing campaigns, and workforce management.
-   
-• Operational Efficiency: Insights into shipping performance and payment modes can lead to improvements in logistics and payment processing, enhancing overall customer satisfaction.
+• Strategic HR Planning: Insights from the dashboard help in workforce planning and development initiatives, ensuring that critical roles are adequately supported.
+
+• Cost Savings: Reducing attrition can lead to significant cost savings related to recruitment, onboarding, and training of new employees.
+
+• Improved Employee Satisfaction: Addressing the root causes of attrition can improve overall employee satisfaction and morale.
 
 <hr>
 
