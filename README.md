@@ -1,4 +1,4 @@
-<h2 align = "Center">HR_Analytics_Dashboard <img src="images/web-analytics.png" alt="" height="35" width="55"/></h2>
+<h2 align = "Center">HR Analytics Dashboard <img src="images/web-analytics.png" alt="" height="35" width="55"/></h2>
 
 <h3>Overview:</h3>
 
