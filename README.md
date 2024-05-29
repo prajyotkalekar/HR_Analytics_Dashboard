@@ -1,4 +1,4 @@
-<h2 align = "Center">HR_Analytics_Dashboard <img src=""C:\Users\Admin\Downloads\web-analytics.png"" alt="" height="35" width="55"/></h2>
+<h2 align = "Center">HR_Analytics_Dashboard <img src=""C:\Users\Admin\OneDrive\Desktop\Project\PowerBI\HR Analytics Dashboard\web-analytics.png"" alt="" height="35" width="55"/></h2>
 
 <h3>Overview:</h3>
 
